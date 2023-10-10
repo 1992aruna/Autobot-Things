@@ -2,8 +2,11 @@
 import os
 import pandas as pd
 from pymongo import MongoClient
+from dotenv import load_dotenv
 
-mongo_uri = "mongodb+srv://anton:rBfxVpwPAZs4kAz@cluster0.mjydb2j.mongodb.net/personal_bot?retryWrites=true&w=majority"
+load_dotenv()
+
+mongo_uri = os.getenv("MONGO_URI") 
 database_name = "personal_bot"
 csv_folder_path = "D:/New Project/Python/Autobot Things/MongoDB_files_Export/csv_files"
 collection_names = ["chat", "order"]
