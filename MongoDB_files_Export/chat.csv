@@ -1,0 +1,7 @@
+_id,state,lang,last_activity,order,design
+917892409211,end,,2023-10-05 18:43:10.004,"[ObjectId('6500230b83d1ec90082996b1'), ObjectId('650027b8a7af652dcfdd3fc9'), ObjectId('65002a2cd887da6f375d9f7a'), ObjectId('65002bbbb88d81b36d2c27be'), ObjectId('65002cee1b9c3e7ef76f4c5f'), ObjectId('65002e937f436e18bd530b69'), ObjectId('6500391664bdc143d00d8af2'), ObjectId('65003ec7b856e4fc846a5996'), ObjectId('65004621f48f235668e207c2'), '1991810', '2072452', ObjectId('651df670f49b91a1625794f8'), ObjectId('651df88d0ebb3711d7910652'), '3728318', '4391014', '6324890', '6652615', '4201696', '4716893', '8573519', '9876734', '8723959', '5835572', '2537524', '2013308', '0883621', '9872036', '1631536', '1496329', '7706746', '5786505', '4866391', '9377962', '0445850', '2220864', '6105093', '5748931', '7937236', '2407160', '5398927', '7203049', '0162015', '3356645', '0087036', '9093721', '0902535', '4906554', '8761141', '3946840', '6006113', '2637189', '0352122', '7026625']",
+919944291166,design_details,English,,,"{'design': 'Poster', 'output_type': 'Image', 'function': 'Wedding', 'religion': 'Christian', 'religion_denomination': 'Roman Catholic', 'design_type': 'Wedding', 'theme': 'Theme1', 'design_place': 'Hello'}"
+919943429239,end,,2023-09-11 13:32:20.716,,
+919790340316,end,,2023-09-23 16:08:38.253,,
+919159464023,function,English,,,"{'design': 'Invitation', 'output_type': 'Image'}"
+919789766741,end,English,2023-10-06 11:25:27.537,,"{'design': 'Inivitation', 'output_type': 'Image', 'function': 'Birthday'}"
