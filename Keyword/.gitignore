@@ -3,3 +3,4 @@ test.py
 venv/
 static/data/images/
 sample_receive/
+.env

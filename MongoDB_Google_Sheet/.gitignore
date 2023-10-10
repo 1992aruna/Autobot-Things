@@ -4,3 +4,4 @@ venv/
 static/data/images/
 sample_receive/
 .env
+google_cloud.json
