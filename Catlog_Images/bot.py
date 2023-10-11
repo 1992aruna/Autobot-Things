@@ -633,7 +633,8 @@ class Bot():
                         err_msg= f"{warning_msg}\n\n{intent[chat_lang][state]['question']}"
                         self.send_message(self.number,err_msg)
 
-
+            elif state=="end":
+                self.restart_chatbot(self.number)
             
 
         ##  Updating Coverstion status, details and sending the next question
