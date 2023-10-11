@@ -122,7 +122,7 @@ class Payment():
         record= {'_id':payid, 
                    "url":url,
                    "status":"not paid"
-                   }
+                }
         self.db.insert_one(record)
 
     def update_payment(self, id, status,payment_details):
